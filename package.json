@@ -1,0 +1,20 @@
+{
+  "name": "depcheck-cli",
+  "version": "1.0.0",
+  "description": "Scan dependencies for vulnerabilities. RTFM.",
+  "main": "src/scanner.js",
+  "bin": {
+    "depcheck": "./bin/depcheck.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["security", "audit", "vulnerabilities", "npm", "dependencies"],
+  "author": "rtfm.codes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtfm-codes/depcheck"
+  },
+  "homepage": "https://rtfm.codes/depcheck"
+}
