@@ -1,5 +1,5 @@
 {
-  "name": "depcheck-cli",
+  "name": "rtfm-depcheck",
   "version": "1.0.0",
   "description": "Scan dependencies for vulnerabilities. RTFM.",
   "main": "src/scanner.js",
